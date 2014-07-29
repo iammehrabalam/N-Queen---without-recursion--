@@ -1,0 +1,2 @@
+N-Queen---without-recursion--
+=============================
